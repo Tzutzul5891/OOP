@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710837722 source:c:\users\tzutzu\documents\oop\oop_labs\lab_1\recap scanf_printf\main.cpp
+	<iostream>
+	<string>
+
