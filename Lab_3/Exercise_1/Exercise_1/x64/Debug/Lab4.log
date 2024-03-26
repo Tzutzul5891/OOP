@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Math.cpp
+C:\Users\Tzutzu\Documents\Laboratoare\Lab4\Lab4\Math.cpp(52,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tzutzu\Documents\Laboratoare\Lab4\Lab4\Math.cpp(53,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab4.vcxproj -> C:\Users\Tzutzu\Documents\Laboratoare\Lab4\x64\Debug\Lab_3.exe
