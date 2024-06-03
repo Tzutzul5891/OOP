@@ -1,0 +1,8 @@
+﻿  Contact.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Tzutzu\Documents\OOP\OOP_Labs\Lab_11\Project1\Project1\main.cpp(18,10): error C2255: 'friend': not allowed outside of a class definition
+C:\Users\Tzutzu\Documents\OOP\OOP_Labs\Lab_11\Project1\Project1\main.cpp(18,16): error C2059: syntax error: ''
+C:\Users\Tzutzu\Documents\OOP\OOP_Labs\Lab_11\Project1\Project1\main.cpp(18,34): error C2143: syntax error: missing ';' before '{'
+C:\Users\Tzutzu\Documents\OOP\OOP_Labs\Lab_11\Project1\Project1\main.cpp(19,17): error C2255: 'friend': not allowed outside of a class definition
+C:\Users\Tzutzu\Documents\OOP\OOP_Labs\Lab_11\Project1\Project1\main.cpp(19,17): error C2059: syntax error: ''
